@@ -1,5 +1,9 @@
-print('Jay')
-print(1+2+3+4+5+6+7+8+9+10)
-print(2**5)
-print('5-(3-1)=',5-(3-1))
-print(int(10/2),10*2)
+a=2
+b=3
+c=2**3
+print(c)
+d=c//4
+print (d)
+e=d**2
+print(e)
+>>>>>>> 3e9589a (pr 01-2)
