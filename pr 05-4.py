@@ -13,4 +13,4 @@ def reverse(list):
     for i in range(len(list)-1,-1,-1): #not using reverse
      print(list[i])
 
-reverse(st)
+reverse(st)#end
