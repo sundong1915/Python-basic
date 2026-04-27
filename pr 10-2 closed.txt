@@ -1,0 +1,7 @@
+def add1(s):
+    for i in range(5):
+        s[i]+=1
+    print(s)
+
+st=[1,2,3,4,5]
+add1(st)
